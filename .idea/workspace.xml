@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" name="Default" comment="" />
+    <ignored path="slingmodels.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/.content.xml" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440777246816" ignored="false" />
+    <file path="/fragment.java" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1436097829770" ignored="false" />
+    <file path="/Dummy.txt" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1441172995054" ignored="false" />
+    <file path="/filter.xml" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1436099427037" ignored="false" />
+    <file path="/_cq_editConfig.xml" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1436099925873" ignored="false" />
+    <file path="/a.dummy" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1437037558911" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/havellsig/aem-havells/havells/ui.apps/src/main/content/jcr_root/apps/havells/components/commerce/latlong/.content.xml" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1436166760034" ignored="false" />
+    <file path="/SlingModelExercise.java" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1436512381351" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/K12_MARCH/K12_Latest_Code/k12/core/src/main/content/jcr_root/etc/clientlibs/k12/components-footer/js/evaluation.js" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1436512797817" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/K12_July/k12/core/src/main/content/jcr_root/apps/k12/components/content/button/dialog.xml" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1439809331093" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/havellsig/aem-havells/havells/core/src/main/java/com/havells/core/SlingModelDemo.java" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440743229164" ignored="false" />
+    <file path="/SlingModelDemo.java" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440743191594" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/havellsig/aem-havells/havells/ui.apps/src/main/content/jcr_root/apps/havells/components/commerce/slingModelJSP/slingModelJSP.jsp" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440750019955" ignored="false" />
+    <file path="/slingModelJSP.jsp" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440853311010" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/havellsig/aem-havells/havells/ui.apps/src/main/content/jcr_root/apps/havells/global.jsp" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440769295094" ignored="false" />
+    <file path="/global.jsp" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440734090168" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/havellsig/aem-havells/havells/ui.apps/src/main/content/jcr_root/apps/havells/components/commerce/slingModelSightly/slingModelSightly.html" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440750827188" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/havellsig/aem-havells/havells/core/src/main/java/com/havells/core/SlingModel.groovy" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440753337627" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/ICIPORTAL_SEPT-DEC/iciportalproject_icube/iciportal/src/main/groovy/com/icidigital/component/PhotoGallery/PhotoGallery.groovy" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440749826079" ignored="false" />
+    <file path="/SlingModel.groovy" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440853242003" ignored="false" />
+    <file path="/slingModelSightly.html" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440750827188" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/havellsig/aem-havells/havells/core/src/main/java/com/havells/core/RecentArticle.groovy" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440760257773" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/havellsig/aem-havells/havells/ui.apps/src/main/content/jcr_root/apps/havells/components/commerce/recentArticles/recentArticles.jsp" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440759616393" ignored="false" />
+    <file path="/RecentArticle.groovy" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1441174761383" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/havellsig/aem-havells/havells/ui.apps/src/main/content/jcr_root/apps/havells/components/commerce/recentArticles/dialog.xml" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440756630432" ignored="false" />
+    <file path="/recentArticles.jsp" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1441168721334" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/havellsig/aem-havells/havells/ui.apps/src/main/content/jcr_root/apps/havells/components/commerce/recentArticles/.content.xml" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440759690820" ignored="false" />
+    <file path="/*.regexp" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440849231603" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/SlingModelExercise/SlingModelExercise/slingmodels/core/src/main/java/com/slingmodels/core/SlingModel.groovy" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440776059127" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/SlingModelExercise/SlingModelExercise/slingmodels/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/slingModelJSP/slingModelJSP.jsp" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440776122355" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/SlingModelExercise/SlingModelExercise/slingmodels/pom.xml" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440774529008" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/havellsig/aem-havells/havells/pom.xml" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440774946363" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/SlingModelExercise/SlingModelExercise/slingmodels/core/slingmodels.core.iml" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440775980989" ignored="false" />
+    <file path="/recentArticlesSightly.html" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1440778048521" ignored="false" />
+    <file path="/dialog.xml" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1441174045325" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/K12_July/k12/core/src/main/groovy/com/k12/core/Constants.groovy" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1441003567695" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/K12_July/k12/core/src/main/content/jcr_root/apps/k12/components/content/schoolFinder/schoolFinder.jsp" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1441003567695" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/K12_July/k12/core/src/main/content/jcr_root/apps/k12/components/content/schoolsListing/schoolsListing.jsp" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1441003567695" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/K12_July/k12/core/src/main/groovy/com/k12/core/servlet/QuizLeadFormServlet.groovy" changelist="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" time="1441017413358" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="slingmodels" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SlingModel.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/com/slingmodels/core/SlingModel.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="24" selection-start="1312" selection-end="1312" vertical-scroll-proportion="1.2102273">
+              <folding>
+                <element signature="e#29#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ui.apps/slingmodels.ui.apps.iml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/recentArticlesSightly/.content.xml" />
+        <option value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/recentArticlesSightly/_cq_editConfig.xml" />
+        <option value="$PROJECT_DIR$/core/slingmodels.core.iml" />
+        <option value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/global.jsp" />
+        <option value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/slingModelJSP/dialog.xml" />
+        <option value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/slingModelSightly/dialog.xml" />
+        <option value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/slingModelJSP/slingModelJSP.jsp" />
+        <option value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/slingModelSightly/slingModelSightly.html" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/slingmodels/core/SlingModel.groovy" />
+        <option value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/recentArticles/dialog.xml" />
+        <option value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/recentArticlesSightly/dialog.xml" />
+        <option value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/recentArticles/recentArticles.jsp" />
+        <option value="$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/recentArticlesSightly/recentArticlesSightly.html" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/slingmodels/core/RecentArticle.groovy" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slingmodels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slingmodels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slingmodels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slingmodels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slingmodels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slingmodels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slingmodels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ProjectsCodeIntelligrape/K12_July/k12" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.slingmodels.core" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\intelligrape\Desktop\SlingModelExercise\slingmodels\ui.apps\src\main\content\jcr_root\apps\slingmodels\components\content" />
+      <recent name="C:\Users\intelligrape\Desktop\SlingModelExercise\slingmodels\ui.apps\src\main\content\jcr_root\apps\slingmodels" />
+      <recent name="C:\Users\intelligrape\Desktop\SlingModelExercise\slingmodels\core\src\main\java\com\slingmodels\core" />
+      <recent name="C:\Users\intelligrape\Desktop\SlingModelExercise\slingmodels\ui.apps\src\main\content\jcr_root\apps\slingmodels\components\content\slingModelSightly" />
+      <recent name="C:\Users\intelligrape\Desktop\SlingModelExercise\slingmodels\ui.apps\src\main\content\jcr_root\apps\slingmodels\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Remote.Debugger">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="Debugger" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="59865" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59865" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Remote.Debugger" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f863c45-f7b2-4fc4-8fe4-d3f75ba57d23" name="Default" comment="" />
+      <created>1436096465648</created>
+      <updated>1436096465648</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1364" height="726" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.00921659" sideWeight="0.95555556" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31643626" sideWeight="0.95555556" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/ParentPagesList (1).java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/PwCSitemapGeneric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="61" selection-start="3706" selection-end="3706" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/slingModelSightly/.content.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="0" selection-start="5925" selection-end="6489" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/slingmodels.core.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="16" selection-start="5140" selection-end="5140" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/global.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="1474" selection-end="1474" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/slingModelJSP/dialog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="82" selection-start="536" selection-end="536" vertical-scroll-proportion="0.31628788">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/slingModelSightly/dialog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="94" selection-start="733" selection-end="733" vertical-scroll-proportion="0.16287878">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/slingModelSightly/slingModelSightly.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="11" selection-start="198" selection-end="198" vertical-scroll-proportion="0.099029124">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/slingModelJSP/slingModelJSP.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="129" selection-end="129" vertical-scroll-proportion="0.099029124">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/slingmodels/core/RecentArticle.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="41" selection-start="1772" selection-end="1772" vertical-scroll-proportion="1.7272727">
+          <folding>
+            <element signature="e#30#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/recentArticlesSightly/recentArticlesSightly.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="50" selection-start="275" selection-end="275" vertical-scroll-proportion="0.16504854">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/recentArticles/recentArticles.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="66" selection-start="285" selection-end="285" vertical-scroll-proportion="0.16504854">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/recentArticles/dialog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="32" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.apps/src/main/content/jcr_root/apps/slingmodels/components/content/recentArticlesSightly/dialog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="32" selection-start="639" selection-end="639" vertical-scroll-proportion="0.4185606">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/slingmodels/core/SlingModel.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="24" selection-start="1312" selection-end="1312" vertical-scroll-proportion="1.2102273">
+          <folding>
+            <element signature="e#29#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

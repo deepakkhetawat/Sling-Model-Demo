@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/slingmodels.iml" filepath="$PROJECT_DIR$/slingmodels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/slingmodels.core.iml" filepath="$PROJECT_DIR$/core/slingmodels.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/it.tests/slingmodels.it.tests.iml" filepath="$PROJECT_DIR$/it.tests/slingmodels.it.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.apps/slingmodels.ui.apps.iml" filepath="$PROJECT_DIR$/ui.apps/slingmodels.ui.apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.content/slingmodels.ui.content.iml" filepath="$PROJECT_DIR$/ui.content/slingmodels.ui.content.iml" />
+    </modules>
+  </component>
+</project>
+

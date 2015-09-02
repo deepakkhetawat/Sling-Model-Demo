@@ -1,0 +1,5 @@
+<ul class="recentArticle" data-sly-use.recentArticle="com.slingmodels.core.RecentArticle"
+    data-sly-list.articlePageMap="${recentArticle.getArticlePages}">
+    <li><a href="${articlePageMap}.html">${recentArticle.getArticlePages[articlePageMap]} </a></li>
+    <br/>
+</ul>
