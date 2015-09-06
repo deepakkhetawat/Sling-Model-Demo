@@ -46,7 +46,6 @@ class RecentArticle {
         int maxRes = maxResults as Integer
         int count = 0
         Map map = ["path": "/content/geometrixx-media", "orderby": "@jcr:content/jcr:created", "orderby.sort": "desc", "type": "cq:Page"]
-        queryBuilder = request.resourceResolver.adaptTo(QueryBuilder) as QueryBuilder
         Session session = request.resourceResolver.adaptTo(Session)
         Query query = queryBuilder.createQuery(PredicateGroup.create(map), session)
         List<Hit> resultList = query.result?.hits
